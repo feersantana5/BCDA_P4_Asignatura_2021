@@ -1,7 +1,5 @@
 # Caso de Estudio BCDA: Asignatura 2021 Teoría.
 
-By: Unai Gil Zubeldia y Fernando Santana Falcón.
-
 ## Introducción
 
 Aplicación web que utiliza una red Blockchain como Backend. Desarrollada con distintas tecnologías (Web3, Truffle, Drizzle, Remix, Ganache, Metamask) y lenguajes (CSS, HTML, JS, Solidity).
