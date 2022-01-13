@@ -5,14 +5,6 @@
 Aplicación web que utiliza una red Blockchain como Backend. Desarrollada con distintas tecnologías (Web3, Truffle, Drizzle, Remix, Ganache, Metamask) y lenguajes (CSS, HTML, JS, Solidity).
 Se parte de base del proyecto Asignatura 2020: https://github.com/sanpago/BCDA_P4_Asignatura_2020
 
-### Mejoras
-- Se han realizado las mejoras del contrato Asignatura con sus consecuentes scripts y testeos.
-- Se ha añadido en el header de la página información sobre el usuario logeado y el estado de la asignatura.
-- Se ha mejorado el estilo de la web.
-- Se ha añadido información extra en el detalle de alumnos.
-- Se ha creado el metodo 'addProfesor' para que el owner pueda añadir profesores a la asignatura.
-- Se han realizado todas las mejoras excepto los puntos 2 y 4.
-
 ### Instalación
 En primer lugar es necesario conectar la wallet (Metamask) con Ganache. Se debe editar el archivo truffle-config.js para añadir la configuración de despliegue en Ganache.
 
